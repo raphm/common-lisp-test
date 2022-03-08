@@ -2,9 +2,9 @@
 
 Code sketch to see if we can get SBCL running on a Replit Repl.
 
-Yes. Yes, we can.
+Yes! Yes, we can!
 
-Once some nix-specific oddities with the `LD_LIBRARY_PATH` got hammered out (see `.replit`), it turned out to be pretty easy.
+Once some nix-specific fun with the `LD_LIBRARY_PATH` got hammered out (see `.replit`), it turned out to be pretty easy.
 
 Unfortunately, exposing the swank port seems to be impossible at this point. :)
 
