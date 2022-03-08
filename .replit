@@ -1,0 +1,4 @@
+run = "LD_LIBRARY_PATH=$(nix eval --raw nixpkgs.openssl.out)/lib:$LD_LIBRARY_PATH sbcl --script hello.lisp"
+
+[nix]
+channel = "stable-21_11"
