@@ -1,5 +1,7 @@
 # Common Lisp Test
 
+[![Run on Repl.it](https://repl.it/badge/github/raphm/common-lisp-test)](https://repl.it/github/raphm/common-lisp-test)
+
 Code sketch to see if we can get SBCL running on a Replit Repl.
 
 Yes! Yes, we can!
